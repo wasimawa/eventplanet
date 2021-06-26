@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 
-
+<?php echo "test"; ?>
 <!-- banner -->
 <section class="banner layer" id="home">
 	<div class="container">
